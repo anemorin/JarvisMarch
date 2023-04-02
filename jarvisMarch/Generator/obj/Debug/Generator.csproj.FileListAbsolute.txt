@@ -1,0 +1,7 @@
+C:\Users\deter\RiderProjects\jarvisMarch\Generator\bin\Debug\Generator.exe
+C:\Users\deter\RiderProjects\jarvisMarch\Generator\bin\Debug\Generator.pdb
+C:\Users\deter\RiderProjects\jarvisMarch\Generator\obj\Debug\Generator.csproj.AssemblyReference.cache
+C:\Users\deter\RiderProjects\jarvisMarch\Generator\obj\Debug\Generator.csproj.SuggestedBindingRedirects.cache
+C:\Users\deter\RiderProjects\jarvisMarch\Generator\obj\Debug\Generator.csproj.CoreCompileInputs.cache
+C:\Users\deter\RiderProjects\jarvisMarch\Generator\obj\Debug\Generator.exe
+C:\Users\deter\RiderProjects\jarvisMarch\Generator\obj\Debug\Generator.pdb

@@ -1,0 +1,7 @@
+C:\Users\deter\RiderProjects\jarvisMarch\jarvisMarch\bin\Debug\jarvisMarch.exe
+C:\Users\deter\RiderProjects\jarvisMarch\jarvisMarch\bin\Debug\jarvisMarch.pdb
+C:\Users\deter\RiderProjects\jarvisMarch\jarvisMarch\obj\Debug\jarvisMarch.csproj.AssemblyReference.cache
+C:\Users\deter\RiderProjects\jarvisMarch\jarvisMarch\obj\Debug\jarvisMarch.csproj.SuggestedBindingRedirects.cache
+C:\Users\deter\RiderProjects\jarvisMarch\jarvisMarch\obj\Debug\jarvisMarch.csproj.CoreCompileInputs.cache
+C:\Users\deter\RiderProjects\jarvisMarch\jarvisMarch\obj\Debug\jarvisMarch.exe
+C:\Users\deter\RiderProjects\jarvisMarch\jarvisMarch\obj\Debug\jarvisMarch.pdb
