@@ -1,100 +1,100 @@
-100: Time: 00.0,9769 iterations: 112
-200: Time: 00.0,088 iterations: 313
-300: Time: 00.0,2585 iterations: 618
-400: Time: 00.0,4222 iterations: 1019
-500: Time: 00.0,5689 iterations: 1520
-600: Time: 00.0,6137 iterations: 2114
-700: Time: 00.0,9252 iterations: 2816
-800: Time: 00.1,0258 iterations: 3614
-900: Time: 00.1,2832 iterations: 4515
-1000: Time: 00.1,8765 iterations: 5517
-1100: Time: 00.2,2258 iterations: 6618
-1200: Time: 00.3,5662 iterations: 7820
-1300: Time: 00.3,6432 iterations: 9121
-1400: Time: 00.4,7926 iterations: 10522
-1500: Time: 00.5,5186 iterations: 12019
-1600: Time: 00.5,7736 iterations: 13619
-1700: Time: 00.6,8871 iterations: 15319
-1800: Time: 00.6,3744 iterations: 17120
-1900: Time: 00.7,2557 iterations: 19020
-2000: Time: 00.8,4954 iterations: 21021
-2100: Time: 00.12,2044 iterations: 23123
-2200: Time: 00.13,0716 iterations: 25325
-2300: Time: 00.13,8133 iterations: 27626
-2400: Time: 00.15,016 iterations: 30027
-2500: Time: 00.18,4375 iterations: 32527
-2600: Time: 00.19,1326 iterations: 35128
-2700: Time: 00.21,6467 iterations: 37829
-2800: Time: 00.22,9945 iterations: 40629
-2900: Time: 00.27,2147 iterations: 43529
-3000: Time: 00.26,8106 iterations: 46530
-3100: Time: 00.29,9966 iterations: 49631
-3200: Time: 00.31,406 iterations: 52832
-3300: Time: 00.38,2297 iterations: 56131
-3400: Time: 00.36,7314 iterations: 59532
-3500: Time: 00.42,1476 iterations: 63033
-3600: Time: 00.44,3365 iterations: 66634
-3700: Time: 00.47,2006 iterations: 70334
-3800: Time: 00.51,6911 iterations: 74136
-3900: Time: 00.53,7394 iterations: 78036
-4000: Time: 00.53,1587 iterations: 82034
-4100: Time: 00.55,0712 iterations: 86133
-4200: Time: 00.53,5857 iterations: 90333
-4300: Time: 00.60,218 iterations: 94632
-4400: Time: 00.63,441 iterations: 99032
-4500: Time: 00.66,5645 iterations: 103532
-4600: Time: 00.68,4786 iterations: 108132
-4700: Time: 00.67,1992 iterations: 112832
-4800: Time: 00.75,0616 iterations: 117632
-4900: Time: 00.73,8452 iterations: 122532
-5000: Time: 00.80,1735 iterations: 127532
-5100: Time: 00.85,9491 iterations: 132632
-5200: Time: 00.87,2441 iterations: 137832
-5300: Time: 00.86,8068 iterations: 143132
-5400: Time: 00.90,676 iterations: 148532
-5500: Time: 00.96,8956 iterations: 154032
-5600: Time: 00.98,7223 iterations: 159632
-5700: Time: 00.101,7188 iterations: 165332
-5800: Time: 00.104,6372 iterations: 171132
-5900: Time: 00.107,2655 iterations: 177032
-6000: Time: 00.115,1734 iterations: 183032
-6100: Time: 00.118,628 iterations: 189132
-6200: Time: 00.119,2048 iterations: 195332
-6300: Time: 00.123,8538 iterations: 201632
-6400: Time: 00.132,3038 iterations: 208033
-6500: Time: 00.132,4111 iterations: 214533
-6600: Time: 00.136,6885 iterations: 221133
-6700: Time: 00.144,6805 iterations: 227833
-6800: Time: 00.142,1148 iterations: 234631
-6900: Time: 00.155,4406 iterations: 241531
-7000: Time: 00.153,4151 iterations: 248531
-7100: Time: 00.158,5384 iterations: 255631
-7200: Time: 00.156,8723 iterations: 262831
-7300: Time: 00.156,9539 iterations: 270131
-7400: Time: 00.168,1161 iterations: 277531
-7500: Time: 00.167,7988 iterations: 285031
-7600: Time: 00.170,8386 iterations: 292631
-7700: Time: 00.179,6077 iterations: 300331
-7800: Time: 00.181,1205 iterations: 308131
-7900: Time: 00.190,6085 iterations: 316031
-8000: Time: 00.199,8787 iterations: 324031
-8100: Time: 00.206,9149 iterations: 332131
-8200: Time: 00.200,2412 iterations: 340331
-8300: Time: 00.213,8105 iterations: 348632
-8400: Time: 00.216,869 iterations: 357032
-8500: Time: 00.236,3769 iterations: 365532
-8600: Time: 00.234,9993 iterations: 374132
-8700: Time: 00.247,0848 iterations: 382832
-8800: Time: 00.237,8902 iterations: 391632
-8900: Time: 00.254,5078 iterations: 400533
-9000: Time: 00.260,3477 iterations: 409533
-9100: Time: 00.261,8265 iterations: 418633
-9200: Time: 00.263,4799 iterations: 427833
-9300: Time: 00.264,7895 iterations: 437132
-9400: Time: 00.267,1951 iterations: 446532
-9500: Time: 00.277,5844 iterations: 456032
-9600: Time: 00.280,7218 iterations: 465632
-9700: Time: 00.293,4085 iterations: 475332
-9800: Time: 00.303,4477 iterations: 485132
-9900: Time: 00.296,5816 iterations: 495032
-10000: Time: 00.312,2039 iterations: 505032
+100 elements: Time: 00.0,9979 iterations: 1412
+200 elements: Time: 00.0,0873 iterations: 4513
+300 elements: Time: 00.0,2304 iterations: 12018
+400 elements: Time: 00.0,4011 iterations: 21019
+500 elements: Time: 00.0,6263 iterations: 33020
+600 elements: Time: 00.0,5507 iterations: 33614
+700 elements: Time: 00.0,8911 iterations: 50416
+800 elements: Time: 00.1,0114 iterations: 57614
+900 elements: Time: 00.1,4764 iterations: 76515
+1000 elements: Time: 00.2,0093 iterations: 104517
+1100 elements: Time: 00.2,6755 iterations: 132018
+1200 elements: Time: 00.3,5185 iterations: 171620
+1300 elements: Time: 00.3,7625 iterations: 209321
+1400 elements: Time: 00.4,8834 iterations: 252022
+1500 elements: Time: 00.4,357 iterations: 252019
+1600 elements: Time: 00.5,0063 iterations: 285619
+1700 elements: Time: 00.6,1978 iterations: 321319
+1800 elements: Time: 00.6,4508 iterations: 376220
+1900 elements: Time: 00.7,6442 iterations: 418020
+2000 elements: Time: 00.9,0628 iterations: 483021
+2100 elements: Time: 00.10,4317 iterations: 577523
+2200 elements: Time: 00.12,1062 iterations: 683125
+2300 elements: Time: 00.15,4461 iterations: 772826
+2400 elements: Time: 00.17,1895 iterations: 870027
+2500 elements: Time: 00.16,7984 iterations: 942527
+2600 elements: Time: 00.17,7057 iterations: 1053028
+2700 elements: Time: 00.21,9818 iterations: 1171829
+2800 elements: Time: 00.22,842 iterations: 1258629
+2900 elements: Time: 00.23,7163 iterations: 1348529
+3000 elements: Time: 00.26,1196 iterations: 1488030
+3100 elements: Time: 00.28,1221 iterations: 1636831
+3200 elements: Time: 00.30,8205 iterations: 1795232
+3300 elements: Time: 00.31,5821 iterations: 1851331
+3400 elements: Time: 00.35,6843 iterations: 2023032
+3500 elements: Time: 00.37,9857 iterations: 2205033
+3600 elements: Time: 00.43,0702 iterations: 2397634
+3700 elements: Time: 00.45,8298 iterations: 2530834
+3800 elements: Time: 00.51,2405 iterations: 2815836
+3900 elements: Time: 00.52,2427 iterations: 2964036
+4000 elements: Time: 00.53,7741 iterations: 2952034
+4100 elements: Time: 00.55,2666 iterations: 3013533
+4200 elements: Time: 00.56,6371 iterations: 3160533
+4300 elements: Time: 00.56,9185 iterations: 3216432
+4400 elements: Time: 00.63,0986 iterations: 3366032
+4500 elements: Time: 00.61,5198 iterations: 3519032
+4600 elements: Time: 00.62,8876 iterations: 3675432
+4700 elements: Time: 00.67,8023 iterations: 3835232
+4800 elements: Time: 00.69,2599 iterations: 3998432
+4900 elements: Time: 00.74,9328 iterations: 4165032
+5000 elements: Time: 00.79,2765 iterations: 4335032
+5100 elements: Time: 00.76,1191 iterations: 4508432
+5200 elements: Time: 00.79,4213 iterations: 4685232
+5300 elements: Time: 00.86,5758 iterations: 4865432
+5400 elements: Time: 00.86,5673 iterations: 5049032
+5500 elements: Time: 00.95,2473 iterations: 5236032
+5600 elements: Time: 00.101,4089 iterations: 5426432
+5700 elements: Time: 00.100,9831 iterations: 5620232
+5800 elements: Time: 00.102,2054 iterations: 5817432
+5900 elements: Time: 00.107,4274 iterations: 6018032
+6000 elements: Time: 00.113,0899 iterations: 6222032
+6100 elements: Time: 00.114,2114 iterations: 6429432
+6200 elements: Time: 00.125,704 iterations: 6640232
+6300 elements: Time: 00.121,4485 iterations: 6854432
+6400 elements: Time: 00.130,8051 iterations: 7280033
+6500 elements: Time: 00.133,4569 iterations: 7507533
+6600 elements: Time: 00.143,207 iterations: 7738533
+6700 elements: Time: 00.152,9958 iterations: 7973033
+6800 elements: Time: 00.143,5431 iterations: 7741831
+6900 elements: Time: 00.153,1169 iterations: 7969531
+7000 elements: Time: 00.150,0949 iterations: 8200531
+7100 elements: Time: 00.148,445 iterations: 8434831
+7200 elements: Time: 00.157,7684 iterations: 8672431
+7300 elements: Time: 00.163,82 iterations: 8913331
+7400 elements: Time: 00.166,9642 iterations: 9157531
+7500 elements: Time: 00.167,0493 iterations: 9405031
+7600 elements: Time: 00.172,1196 iterations: 9655831
+7700 elements: Time: 00.178,4282 iterations: 9909931
+7800 elements: Time: 00.189,0141 iterations: 10167331
+7900 elements: Time: 00.188,3849 iterations: 10428031
+8000 elements: Time: 00.191,9849 iterations: 10692031
+8100 elements: Time: 00.191,0113 iterations: 10959331
+8200 elements: Time: 00.210,1957 iterations: 11229931
+8300 elements: Time: 00.232,3246 iterations: 11852432
+8400 elements: Time: 00.232,5229 iterations: 12138032
+8500 elements: Time: 00.224,89 iterations: 12427032
+8600 elements: Time: 00.241,1173 iterations: 12719432
+8700 elements: Time: 00.244,8717 iterations: 13015232
+8800 elements: Time: 00.241,28 iterations: 13314432
+8900 elements: Time: 00.254,4895 iterations: 14017533
+9000 elements: Time: 00.257,9692 iterations: 14332533
+9100 elements: Time: 00.257,0491 iterations: 14651033
+9200 elements: Time: 00.266,5999 iterations: 14973033
+9300 elements: Time: 00.273,7315 iterations: 14861432
+9400 elements: Time: 00.289,8543 iterations: 15181032
+9500 elements: Time: 00.279,4661 iterations: 15504032
+9600 elements: Time: 00.283,5318 iterations: 15830432
+9700 elements: Time: 00.304,1772 iterations: 16160232
+9800 elements: Time: 00.314,0562 iterations: 16493432
+9900 elements: Time: 00.315,5823 iterations: 16830032
+10000 elements: Time: 00.315,1889 iterations: 17170032

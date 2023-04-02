@@ -50,14 +50,14 @@ namespace jarvisMarch
             var countEl = 100;
             for (int i = 0; i < times.Count; i++)
             {
-                streamWriter.WriteLine("{0}: Time: {1:00}.{2} iterations: {3}", 
+                streamWriter.WriteLine("{0} elements: Time: {1:00}.{2} iterations: {3}", 
                     countEl, times[i].Seconds,  times[i].TotalMilliseconds, iterations[i]);
                 countEl += 100;
             }
             streamWriter.Close();
         }
         
-        private static int Rotate(Point p1, Point p2, Point p3)
+        private static int FindAngle(Point p1, Point p2, Point p3)
         {
             int val = (p2.Y - p1.Y) * (p3.X - p2.X) -
                       (p2.X - p1.X) * (p3.Y - p2.Y);
@@ -88,8 +88,11 @@ namespace jarvisMarch
                 var nextPointId = (currentPointId + 1) % n;
               
                 for (int i = 0; i < n; i++)
-                    if (Rotate(points[currentPointId], points[i], points[nextPointId]) == 2)
+                {
+                    iteration++;
+                    if (FindAngle(points[currentPointId], points[i], points[nextPointId]) == 2)
                         nextPointId = i;
+                }
                 currentPointId = nextPointId;
       
             } while (currentPointId != startPointId);
