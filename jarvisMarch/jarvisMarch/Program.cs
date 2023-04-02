@@ -47,10 +47,12 @@ namespace jarvisMarch
             
             var streamWriter =
                 new StreamWriter("C:\\Users\\deter\\RiderProjects\\jarvisMarch\\jarvisMarch\\result.txt");
+            var countEl = 100;
             for (int i = 0; i < times.Count; i++)
             {
-                streamWriter.WriteLine("Time is {0:00}.{1} iterations: {2}", 
-                    times[i].Seconds,  times[i].TotalMilliseconds, iterations[i]);
+                streamWriter.WriteLine("{0}: Time: {1:00}.{2} iterations: {3}", 
+                    countEl, times[i].Seconds,  times[i].TotalMilliseconds, iterations[i]);
+                countEl += 100;
             }
             streamWriter.Close();
         }
